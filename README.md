@@ -1,6 +1,6 @@
 # Add an Image
 
-You can write something like just text here
+bro idk what i'm doing why does the file look like this i'm cRYING
 
 This is a bullet list:
 
